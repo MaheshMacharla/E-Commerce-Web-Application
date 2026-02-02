@@ -41,26 +41,6 @@ A full-stack E-Commerce web application that allows users to browse products, ma
 - Git
 - GitHub
 
----
-
-## 📂 Project Structure
-
-E-Commerce-Web-Application/
-│
-├── frontend/
-│ ├── src/
-│ └── public/
-│
-├── backend/
-│ ├── controllers/
-│ ├── routes/
-│ ├── models/
-│ └── server.js
-│
-├── package.json
-└── README.md
-
-
 
 ---
 
@@ -110,8 +90,5 @@ Mahesh Macharla
 GitHub: https://github.com/MaheshMacharla
 
 ---
-
-
-
-## 📂 Project Structure
+ 
 
