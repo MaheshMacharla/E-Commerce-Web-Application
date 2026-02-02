@@ -1,0 +1,34 @@
+[
+  {
+    "id": "prod_1",
+    "title": "Minimal Tee",
+    "description": "Comfortable cotton tee — minimal design.",
+    "price": 1999,
+    "category": "Clothing",
+    "image": "https://via.placeholder.com/400x300.png?text=Minimal+Tee"
+  },
+  {
+    "id": "prod_2",
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling, 20h battery.",
+    "price": 6999,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/400x300.png?text=Wireless+Headphones"
+  },
+  {
+    "id": "prod_3",
+    "title": "Designer Mug",
+    "description": "Ceramic mug with matte finish.",
+    "price": 899,
+    "category": "Home",
+    "image": "https://via.placeholder.com/400x300.png?text=Designer+Mug"
+  },
+  {
+    "id": "prod_4",
+    "title": "Laptop Stand",
+    "description": "Ergonomic aluminium stand.",
+    "price": 2499,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/400x300.png?text=Laptop+Stand"
+  }
+]
